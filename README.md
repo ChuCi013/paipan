@@ -16,7 +16,7 @@
 
 ### 在线使用
 
-访问 GitHub Pages：https://github.com/ChuCi013/paipan
+访问 GitHub Pages：https://chuci013.github.io/paipan/
 
 ### 下载使用
 
@@ -34,8 +34,8 @@
 
 > 将截图文件放入仓库后，取消下面两行的注释即可显示。
 
-<!-- ![六爻排盘](screenshots/exa1.png) -->
-<!-- ![梅花排盘](screenshots/exa2.png) -->
+ ![六爻排盘](screenshots/exa1.png) 
+ ![梅花排盘](screenshots/exa3.png)
 
 更多截图见 [screenshots/](screenshots/) 目录。
 
