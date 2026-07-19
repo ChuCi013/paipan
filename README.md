@@ -10,18 +10,18 @@
 - **内置字典**：六十四卦卦辞爻辞、先后天八卦、京房八宫、天干地支、六亲六神、十二长生、节气、用神参考、五行生克
 - **爻详情弹窗**：点击爻行查看化进化退、月日动影响、回头生克等详细分析
 - **一键复制**：排盘结果整理为纯文本，粘贴给会卜算的朋友解读
-- **暗色主题**：适配手机、平板、PC
+- **暗色主题**：适配手机、平板移动端
 
 ## 快速开始
 
 ### 在线使用
 
-访问 GitHub Pages：[https://你的用户名.github.io/仓库名/](https://你的用户名.github.io/仓库名/)
+访问 GitHub Pages：https://github.com/ChuCi013/paipan
 
 ### 下载使用
 
-1. 点击 [Releases](https://github.com/你的用户名/仓库名/releases) 下载 `排盘.html`
-2. 双击用浏览器打开，即可使用
+1. 点击 [Releases](https://github.com/ChuCi013/paipan/releases/tag/v1.0) 下载 `EM_Calculator1.0.0.html`
+2. 选中文件，打开方式，“用浏览器打开”。
 
 ## 使用指引
 
@@ -34,8 +34,8 @@
 
 > 将截图文件放入仓库后，取消下面两行的注释即可显示。
 
-<!-- ![六爻排盘](screenshots/liuyao.png) -->
-<!-- ![梅花排盘](screenshots/meihua.png) -->
+<!-- ![六爻排盘](screenshots/exa1.png) -->
+<!-- ![梅花排盘](screenshots/exa2.png) -->
 
 更多截图见 [screenshots/](screenshots/) 目录。
 
