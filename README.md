@@ -32,8 +32,6 @@
 
 ## 截图
 
-> 将截图文件放入仓库后，取消下面两行的注释即可显示。
-
  ![六爻排盘](screenshots/exa1.png) 
  ![梅花排盘](screenshots/exa3.png)
 
