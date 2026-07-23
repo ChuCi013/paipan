@@ -20,7 +20,7 @@
 
 ### 下载使用
 
-1. 点击 [Releases](https://github.com/ChuCi013/paipan/releases/tag/v1.0) 下载 `EM_Calculator1.0.0.html`
+1. 点击 [Releases](https://github.com/ChuCi013/paipan/releases/tag/v1.0) 下载
 2. 选中文件，打开方式，“用浏览器打开”。
 
 ## 使用指引
